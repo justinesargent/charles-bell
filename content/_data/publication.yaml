@@ -13,14 +13,14 @@ url: 'http://localhost:8080'
 
 # ------------------------------------------------------------------------------
 # Title & Description
-title: New Deal Photography
-subtitle: The Works of Dorothea Lange and Walker Evans
+title: The Expression of Anatomy
+subtitle: The Anatomical Drawings and Discoveries of Sir Charles Bell (1774-1842)
 reading_line:
 short_title:
 
 description:
   one_line:
-  full: "In the 1930s, during America's worst financial crises, the administration of President Franklin D. Roosevelt employed photographers to document the plight of everyday folk in the Great Depression in order to push forward with their New Deal programs. Documentary photographers Dorothea Lange and Walker Evans were prolific frontrunners of these efforts and their extraordinary photographs continue to endure today. Their artistic and documentary mastery and historical importance provide key insight into a monumental turning point in American history."
+  full: "My Quire project will be a short historical and literary research project examining the drawings and medical findings of Sir Charles Bell (1774-1842), a Scottish neurophysiologist and surgeon. Particularly, this Quire project will examine the art and prose of his book Essays on the Anatomy of Expression in Painting (1806), later republished as The Anatomy and Philosophy of Expression (1824)."
 
 # ------------------------------------------------------------------------------
 # Publication Details
@@ -46,14 +46,14 @@ publisher:
 contributor_as_it_appears:
 
 contributor:
-  - id: jkeller
+  - id: jsargent
     type: primary
-    first_name: Judith
-    last_name: Keller
-    title: Senior Curator of Photographs
-    affiliation: J. Paul Getty Museum
-    bio: "Judith Keller joined the J. Paul Getty Museum in 1986 and since 2008 was an Associate Curator of Photographs. In 2010, she was named the Senior Curator of Photographs. Keller received her B.A. in Art History and a Masters in Museum Practice and Art History from the University of Michigan at Ann Arbor. She also completed course work for a Phd. in Art History at the University of Michigan. Prior to her tenure at the Getty, Keller worked at The University of Michigan Museum of Art (1979 – 1981) and at the Archer M. Huntington Art Gallery (now the Blanton Museum of Art) at The University of Texas, Austin, as Curator of Prints and Drawings."
-    url: https://news.getty.edu/judith-keller-named-senior-curator-photographs-at-j-paul-getty-museum.htm
+    first_name: Justine
+    last_name: Sargent
+    title: Intern, Getty Publications
+    affiliation: J. Paul Getty Trust
+    bio: "Justine Sargent is a UCLA alum with a degree in English and Film. She is a 2023 intern for Getty Publications."
+    url: 
     image: contributors/judith-keller.jpg
 
 # ------------------------------------------------------------------------------
