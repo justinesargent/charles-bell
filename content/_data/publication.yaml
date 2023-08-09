@@ -20,13 +20,13 @@ short_title:
 
 description:
   one_line:
-  full: "My Quire project will be a short historical and literary research project examining the drawings and medical findings of Sir Charles Bell (1774-1842), a Scottish neurophysiologist and surgeon. Particularly, this Quire project will examine the art and prose of his book Essays on the Anatomy of Expression in Painting (1806), later republished as The Anatomy and Philosophy of Expression (1824)."
+  full: "In this short Quire project, I provide a brief biographical overview of the life and career of Sir Charles Bell (1774-1842), a renowned physician and anatomical artist. I use his book *Anatomy of Expression in Painting* (1806), later republished as *The Anatomy and Philosophy of Expression in Painting* (1824) as a case study of Charles Bell’s work. In the Afterword, I discuss my experience examining the book at Getty Research Institute’s Special Collections and my experience working on the project. This short work is a meant as a cursory examination of Charles Bell’s work and was completed as part of the 2023 Getty Marrow Undergraduate Internship with Getty Publications."
 
 # ------------------------------------------------------------------------------
 # Publication Details
 # ------------------------------------------------------------------------------
 
-pub_date: 2022-12-01 # YYYY-MM-DD
+pub_date: 2023-16-08 # YYYY-MM-DD
 language: en
 pub_type: book # book | journal-periodical | other
 
@@ -54,13 +54,13 @@ contributor:
     affiliation: J. Paul Getty Trust
     bio: "Justine Sargent is a UCLA alum with a degree in English and Film. She is a 2023 intern for Getty Publications."
     url: 
-    image: contributors/judith-keller.jpg
+    image:
 
 # ------------------------------------------------------------------------------
 # Copright & License
 # ------------------------------------------------------------------------------
 
-copyright: © 2022 J. Paul Getty Trust
+copyright: © 2023 J. Paul Getty Trust
 
 license:
   name: Creative Commons Attribution 4.0 International License
@@ -102,10 +102,10 @@ resource_link:
 
 subject:
   - type: bisac
-    name: PHOTOGRAPHY / Subjects & Themes / Historical
-    identifer: PHO023100
+    name: 
+    identifer: 
   - type: keywords
-    name: photography, black-and-white, great despression
+    name: 
 
 # ------------------------------------------------------------------------------
 # Revision History
