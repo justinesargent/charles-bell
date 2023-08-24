@@ -1,60 +1,47 @@
 ---
-label: I
-title: American Photographs
-subtitle: Evans in Middletown
+title: Case Study
+subtitle: The Anatomy and Philosophy of Expression (1824)
 layout: essay
-order: 30
-class: page-one
-abstract: |
-  Excerpt from *Walker Evans: Catalogue of the Collection* (1995) by Judith Keller. Available for free download in its entirety, in the Getty Publications [Virtual Library](https://www.getty.edu/publications/virtuallibrary/0892363177.html).
+order: 35
 ---
+>A surgeon by profession, Sir Charles Bell was an artist by predilection: that acute sensibility which rendered the practice of surgery painful to himself, induced him to find relief during the contemplation of human suffering in tracing the contortions of agony to their source…
+-- Review of Anatomy of Expression in The Spectator, 1844[^28]
 
-When Evans was officially hired in October 1935 as an Information Specialist by the Historical Section of the Resettlement Administration, his duties were described as follows: "Under the general supervision of the Chief of the Historical Section with wide latitude for the exercise of independent judgement and decision as Senior Information Specialist to carry out special assignments in the field; collect, compile and create photographic material to illustrate factual and interpretive news releases and other informational material upon all problems, progress and activities of the Resettlement Administration."[^1] Evans was to make liberal use of his right to exercise "independent judgement" during his time with the RA, and he perpetually resisted the idea that his purpose there was to gather illustrations for the promotion of the RA's (that is, the federal government's New Deal) programs. While considering a position with the RA in the spring of 1935, he jotted down those things he would require of his employer, including the "guarantee of one-man performance," and what he would provide, adding that he should not be asked to do anything more in the way of political propaganda: "[I] Mean never [to] make photographic statements for the government or do photographic chores for gov or anyone in gov, no matter how powerful—this is pure record not propaganda. The value and, if you like, even the propaganda value for the government lies in the record itself which in the long run will prove an intelligent and farsighted thing to have done. NO POLITICS whatever." ({% cite 'Evans 1938' %})
+{% figure 'fig-22' %}
 
-{% figure 'vid-1' %}
+Originally published in 1806, *Essays on the Anatomy of Expression in Painting*, later released as *The Anatomy and Philosophy of Expression* (1824), offers a detailed inquiry into “how a wide range of emotions manifest themselves in face and figure.”[^29] The work was targeted toward both artists and anatomists who were interested in understanding the neurological and physiological structures and processes that underpinned facial expression. According to the preface in the posthumously published third edition, “it was his artistic interest in the depiction of expression that led him to his successes in anatomy and neurology.”[^30] His seminal work reflected extensive observations on facial anatomy, which thus lead to his finding of a condition where “damage to the facial nerve in the brain leads to paralysis on the corresponding side of the body.”[^31]
 
-Because his pictures had been issued by the agency with policy-approved captions for the past three years, Evans felt the need in 1938 to distance himself from that establishment, as well as the world of commercial publishing, by prefacing *American Photographs* with this statement: "The responsibility for the selection of the pictures used in this book has rested with the author, and the choice has been determined by his opinion: therefore they are presented without sponsorship or connection with the policies, aesthetic or political, of any of the institutions, publications or government agencies for which some of the work has been done."[^2] Stryker's business was to provide informative images to the mass media, and he and Evans would always disagree about the most appropriate vehicle for the latter's photographs, as well as the definition of "documentary." But when the photography project of the RA began, the two men were able to agree on its primary subject: American history as exemplified by life in the average American town. Evans's vision for documenting American life had begun to form much earlier; a letter drafted to his friend Ernestine Evans, an editor at J. B. Lippincott, in February of 1934, makes clear his aspirations:
+{% figure 'fig-3' 'is-pulled-right' %}
 
-> What do I want to do? ... I know now is the time for picture books. An American city is the best, Pittsburgh better than Washington. I know more about such a place. I would want to visit several besides Pittsburgh before deciding. Something perhaps smaller. Toledo, Ohio, maybe. Then I’m not sure a book of photos should be identified locally. American city is what I'm after.... People, all classes, surrounded by bunches of the new down-and-out. Automobiles and the automobile landscape. Architecture, American urban taste, commerce, small scale, large scale, the city street atmosphere, the street smell, the hateful stuff, women's clubs, fake culture, bad education, religion in decay....[^3]
+It is important to note that like many scientific contemporaries of the time, such findings were brought about by what would now be regarded as highly unethical, if not directly harmful, practices of medical experimentation and hypothesis. In his findings for Bell’s palsy, Charles experimented on animals “to probe the connections between nerves and muscles.”[^32]
 
-The two men could find common ground in part due to the widespread influence of the 1929 publication *Middletown: A Study in Modern American Culture* by Robert and Helen Lynd, professors of sociology at Columbia and Sarah Lawrence, respectively. A 550-page field investigation by social anthropologists with subject headings including "What Middletown does to get its living" and "The houses in which Middletown lives," this pioneering project attempted an objective analysis of life in a small Midwestern American city (Muncie, Indiana). The Lynds' study was hailed as a very accessible report that was most appealing because it made "no attempt to prove anything" but simply recorded "what was observed." The Lynds introduced their topic by saying their goal "was to study synchronously the interwoven trends that are the life of a small American city. A typical city, strictly speaking, does not exist, but the city studied was selected a shaving many features in common to a wide group of communities." ({% cite 'Lynd 1929' '3' %})
+On "Muscles of the face," a reviewer of Bell's book discussed how: “This is one of Bell’s most famous drawings and a work of great beauty. Charles bell was probably happier drawing dissections than anything else.”[^33]
 
-{% figure 'fig-1' %}
+In *Essays*, Charles contends that “the ancient models often imitated by painters did not accurately reflect anatomical realities,” thus once again using his artistic skills to render the body accurately in medical studies.[^34] He supposedly argued against the reliance on antiques and models as they displayed “posture not action.”[^35] Other artists such as David Wilkie also contributed illustrations after Charles’ death.[^36] Writ large, the work was a success. Charles' anatomist contemporaries such as John Flaxman, Henry Fuseli, and Charles Darwin supposedly thought highly of the work.[^37]
 
-The "Outline Memorandum" that Evans prepared in October 1935, probably at Stryker's request, laying out plans for an eight-week automobile trip through the Southeast, makes reference to Middletown and presents thoughts similar to the photographer's musings of 1934:
+{% figure 'fig-24' 'is-pulled-left' %}
 
-> First objective, Pittsburgh and vicinity, one week; photography, documentary in style, of industrial subjects, emphasis on housing and home life of working-class people.... Ohio Valley: rural architecture, including the historical, contemporary "Middletown" subjects; Cincinnati [sic] housing; notes on style of Victorian prosperous period.... Indiana, Kentucky, Illinois river towns, gather typical documents, main streets, etc., in passing. Ditto Mississippi river towns. Select one of these towns, such as Hannibal, Missouri, for more thorough treatment, if time allows.[^4]
+Despite Charles’ known successes related to his findings for Bell’s palsy and Bell’s law, among others, *The Anatomy and Philosophy of Expression* has somewhat fallen into obscurity. The work is striking in that it not merely functions as a descriptive text for anatomy and its study, but also as a manuscript to express his own philosophies and tenets, such as his belief that “expression is to passion what language is to thought.”[^38] See below Charles’ engraving “Madman,” of which he described:
 
-{% figure 'fig-2' 'is-pulled-right' %}
+>“If I were to set down what ought to be represented as the prevailing character of a madman, I should say, that his body should be strong, and his muscles rigid and distinct; his skin bound; his features sharp, his eyes sunk; his color a dark brownish yellow, tinctured with sallowness, without one spot of enlivening carnation; his hair sooty black, stiff and bushy. Or perhaps he might be represented as of a pale sickly yellow, with wiry red hair.”[^39]
 
-This document goes on to list antebellum plantation architecture in Natchez, Mississippi; small rural French towns in Teche Parish, Louisiana; industrial themes in Birmingham, Alabama; and a cotton plantation in South Carolina, as objectives of the proposed trip for gathering still photography of a "general sociological nature." In early 1936, one of *Middletown's* authors had a chance to directly affect the RA's Photography Section: Stryker showed Robert Lynd, a former Columbia colleague, some RA pictures and asked for his opinion while lunching with him in New York. The result was a "shooting script" for "things which should be photographed as American Background," issued by Stryker to his team of photographers. The script contains an extensive listing of items like "People on and off the job," "How do people look?," "The wall decoration in homes as an index to the different income groups and their reactions," and "A photographic study of use of leisure time in various income groups."[^5]
+{% figure 'fig-23' %}
 
-{% figure 'fig-3' 'is-pulled-left' %}
+As was characteristic of much of early nineteenth-century medicine in Europe, Charles’ observations were heavily racially encoded, which reflected the inaccurate and racist conceptions of human anatomy that were elevated, during the period, to universal medical truth. His physiognomic examinations indicated the growing resurgence of physiognomy as a crucial tool for diagnosis, rooted in seventeenth-century medical inquiry. Thus, symptoms that were characteristic of insanity were associated with certain facial features. For Charles, his imagined Madman would not only have “sharp” features and “sunken” eyes, but also “dark brownish yellow” skin with “hair sooty black, stiff and bushy.” 
 
-Once Evans was officially on staff, his first trip under Stryker's direction seems to have been an extended fall visit to Bethlehem, Pennsylvania, where steel mills, workers' housing, parading legionnaires, and elaborate gravestones ({% ref 'fig-1, fig-2, fig-3' %}) were his subjects. Between November 1935 and April 1936, Evans made two lengthy road trips that would account for the bulk of his entire production for the RA and many of the 169 mid-thirties pictures that follow this essay. From November to mid-January, here turned to industrial centers in Pennsylvania, finally spending some time in Pittsburgh, and went on to Ohio, Kentucky, Tennessee, Alabama, Mississippi, and Louisiana, following to some extent the course outlined in the memorandum above. In February 1936, he left again, with a completely Southern itinerary that would take him through many small cities, some of them renowned for ante-bellum architecture and Civil War battles, in Louisiana, Mississippi, Alabama, Georgia, Florida, the Carolinas, and Virginia.
+The doctor’s methodology lies on the intersection of art and science, thus making apparent the inherent subjectivity of a supposedly objective scientific practice. Charles’ efforts in this work, as he argued, were those of de-aestheticization. Both Charles and John claimed to portray the body in its actuality, providing their own forms as tools for visual study. However, this subjective, qualitative analysis of “madness,” a neurology generalized through a racialized body and visual, presents the problematic legacies that Western medicine inherits and arguably still perpetuates in its practice. Nonetheless, through Charles’ study, it becomes quite apparent how nascent the fields of neurology and neurophysiology were during his time, as well as the extraordinary lengths that medicine had yet to come.
 
-In the spring of 1936, Stryker approved a furlough for Evans to work on a *Fortune* story with James Agee. This leave for mid-July through mid-September allowed Evans to return to the "middle south" with Agee to prepare "an article on cotton tenantry in the United States, in the form of a photographic and verbal record of the daily lives and environment of an average white family of tenant farmers" ({% ref 'fig-4, fig-5' %}). ({% cite 'Agee 1941' 'viii' %}) According to the terms of Stryker's arrangement with *Fortune's* art editor, the pictures Evans produced on this job would become the property of the RA after the magazine had run the finished essay in a fall issue.
+# Notes
 
-{% figuregroup '2' 'fig-4, fig-5' %}
-
-Once Evans returned from this trip south, during which he and Agee documented the lives of the Burroughs, Fields, and Tengle families in Alabama (see [*Bud Fields with His Wife*](/catalogue/3/) and [*Burrough's Family*](/catalogue/4/)), he spent September and October printing his pictures and preparing presentations for both *Fortune* and Stryker.[^6] Stryker again talked about a New England trip, on which he planned to accompany the photographer, but it did not materialize, and Evans was once more sent to the South, this time to photograph the catastrophe of flooding in Arkansas and Tennessee. An unusual and demanding assignment for Evans, this trip of late January and February 1937 was made with another RA photographer, Edwin Locke, and required that he spend considerable time in the affected area, photographing the flood victims and their temporary shelters.
-
-This would be his last travel for the RA, an agency that was absorbed into the Farm Security Administration at about this time. Evans's contributions to the RA's documentation of Depression-era America had essentially been obtained between the summer of 1935 and the spring of 1936, a period of less than a year. The Alabama pictures made while on leave to *Fortune* would become his best-known photographs and, ironically, those most closely identified with his work as a New Deal photographer.
-
-{% backmatter %}
-
-## Notes
-
-[^1]: Memorandum draft by Walker Evans, reproduced in *Walker Evans at Work*, (New York: Harper and Row, 1982), 112.
-
-[^2]: Walker Evans to Ernestine Evans, unfinished two-page letter in black ink on hotel stationery, dated Feb. 1934, first published in *Walker Evans at Work*, 98. This letter is part of the Evans Collection at the Getty (JPGM84.XG.963.42).
-
-[^3]: From a review by W. B. Shaw, quoted in *Book Review Digest: Books of l929* (New York: H. W. Wilson, 1930), 591.
-
-[^4]: Walker Evans to Roy Stryker, "Outline Memorandum," ca. Oct.1935, *Stryker Papers*. Also published in Walker Evans at Work, 113.
-
-[^5]: Roy Stryker to all FSA (then RA) photographers, outline for "Suggestions recently made by Robert Lyndf or things which should be photo-graphed as 'American Background,'" dated by Stryker to early 1936, first published in Carver, *Just Before the War*, n.p.
-
-[^6]: For more background on this Alabama series and a discussion of two photograph albums in the collection of the Prints and Photographs Division of the Library of Congress thought to beEvans's "first draft" for Fortune, seeJudith Keller and Beverly Brannan, "Walker Evans: Two Albums in the Library of Congress," *History of Photography* 19:1 (Spring 1995).
-
-{% endbackmatter %}
+[^28]: "Sir Charles Bell's *Anatomy of Expression* (Book Review)."
+[^29]: Anderson, *The Art of Medicine*, 219.
+[^30]: Neher, “Sir Charles Bell and the Anatomy of Expression,” 59.
+[^31]: Ibid.
+[^32]: Ibid.
+[^33]: Loudon, “Sir Charles Bell and the Anatomy of Expression,” 1794.
+[^34]: Garner, Anne. “Charles Bell: Artistry and Anatomy.”
+[^35]: Loudon, “Sir Charles Bell and the Anatomy of Expression,” 1795.
+[^36]: Ibid.
+[^37]: Ibid.
+[^38]: Dewar, “ART IN MEDICINE.”
+[^39]: Anderson, *The Art of Medicine*, 221.
