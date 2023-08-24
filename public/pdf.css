@@ -8789,7 +8789,7 @@ html {
   width: 100%;
 }
 .quire main {
-  background-color: #EEF2F3;
+  background-color: lightgrey;
 }
 @media print {
   .quire main {
@@ -8797,7 +8797,7 @@ html {
   }
 }
 .quire__secondary {
-  background-color: #333333;
+  background-color: #000000;
   padding: 1.25em;
 }
 .quire__secondary * {
@@ -8813,7 +8813,7 @@ html {
 .quire__secondary a,
 .quire__secondary button,
 .quire__secondary .button {
-  background-color: #333333;
+  background-color: #000000;
   color: #ffffff !important;
 }
 .quire__secondary a {
@@ -8970,7 +8970,7 @@ html {
 .accordion-section__copy-link-button {
   cursor: pointer;
   color: #000000;
-  font-family: "IBM Plex Sans Condensed", sans-serif;
+  font-family: Times, serif;
   display: flex;
   align-items: center;
   justify-content: right;
@@ -8988,7 +8988,7 @@ html {
   }
 }
 .accordion-section__copy-link-button:active, .accordion-section__copy-link-button:hover, .accordion-section__copy-link-button:focus {
-  color: #a02a2a;
+  color: #340000;
 }
 .accordion-section__copy-link-button:focus:not(:focus-visible) {
   outline: none;
@@ -8997,20 +8997,20 @@ html {
 @media screen and (min-width: 500px) {
   .accordion-section__heading:hover .accordion-section__copy-link-button,
   .accordion-section__heading:focus-visible .accordion-section__copy-link-button {
-    color: #CF4747;
+    color: maroon;
   }
   .accordion-section__heading:hover .accordion-section__copy-link-button:hover,
   .accordion-section__heading:focus-visible .accordion-section__copy-link-button:hover {
-    color: #a02a2a;
+    color: #340000;
   }
 }
 
 @media (pointer: fine) and (hover: none) {
   .accordion-section__heading:focus .accordion-section__copy-link-button {
-    color: #CF4747;
+    color: maroon;
   }
   .accordion-section__heading:focus .accordion-section__copy-link-button:focus {
-    color: #a02a2a;
+    color: #340000;
   }
 }
 
@@ -9155,7 +9155,7 @@ html {
   border: none;
   padding: 0;
   outline: inherit;
-  color: #CF4747;
+  color: maroon;
   text-decoration: underline;
   font-family: "Noto Sans", sans-serif;
   font-size: 0.875em;
@@ -9192,23 +9192,23 @@ html {
   vertical-align: sub;
 }
 .quire-navbar * {
-  color: #333333;
+  color: #666666;
 }
 .quire-navbar svg {
-  fill: #333333;
+  fill: #666666;
 }
 .quire-navbar svg:hover {
-  fill: #333333;
+  fill: #666666;
   background-color: transparent;
 }
 .quire-navbar a,
 .quire-navbar button,
 .quire-navbar .button {
   background-color: #ffffff;
-  color: #333333 !important;
+  color: #666666 !important;
 }
 .quire-navbar a {
-  border-bottom-color: #333333 !important;
+  border-bottom-color: #666666 !important;
 }
 .quire-navbar a {
   display: block;
@@ -9226,7 +9226,7 @@ html {
   transition: all 0.25s ease;
   font-family: "Noto Sans", sans-serif;
   font-size: 0.75rem;
-  background-color: #d0dbde;
+  background-color: #bababa;
   border-bottom: none;
 }
 .quire-progress-bar span {
@@ -9236,7 +9236,7 @@ html {
 .quire-progress-bar div {
   height: 2px;
   width: 100%;
-  background-color: #CF4747;
+  background-color: maroon;
   text-align: right;
   padding-right: 0.5em;
   position: relative;
@@ -9284,7 +9284,7 @@ html {
 }
 .quire-navbar-controls__left a:hover, .quire-navbar-controls__left button:hover, .quire-navbar-controls__left .button:hover, .quire-navbar-controls__right a:hover, .quire-navbar-controls__right button:hover, .quire-navbar-controls__right .button:hover, .quire-navbar-controls .quire-navbar-page-controls__item a:hover, .quire-navbar-controls .quire-navbar-page-controls__item button:hover, .quire-navbar-controls .quire-navbar-page-controls__item .button:hover {
   color: #fff !important;
-  background-color: #CF4747;
+  background-color: maroon;
 }
 .quire-navbar-controls__left a:hover svg, .quire-navbar-controls__left button:hover svg, .quire-navbar-controls__left .button:hover svg, .quire-navbar-controls__right a:hover svg, .quire-navbar-controls__right button:hover svg, .quire-navbar-controls__right .button:hover svg, .quire-navbar-controls .quire-navbar-page-controls__item a:hover svg, .quire-navbar-controls .quire-navbar-page-controls__item button:hover svg, .quire-navbar-controls .quire-navbar-page-controls__item .button:hover svg {
   fill: #fff;
@@ -9435,7 +9435,7 @@ html {
 }
 .quire-navbar-button.arrow-button a:hover {
   color: #fff !important;
-  background-color: #CF4747;
+  background-color: maroon;
 }
 .quire-navbar-button.arrow-button a:hover svg {
   fill: #fff;
@@ -9482,7 +9482,7 @@ html {
 }
 
 .quire-menu {
-  font-family: "Noto Sans", sans-serif;
+  font-family: "Noto Serif", serif;
   line-height: 1.25;
   /* "Cite this Page" Section */
 }
@@ -9503,7 +9503,8 @@ html {
   font-weight: 700;
   line-height: 1.2em;
   color: #ffffff;
-  font-family: "IBM Plex Sans Condensed", sans-serif;
+  font-family: Times, serif;
+  letter-spacing: 0;
 }
 .quire-menu__header__contributors {
   margin: 0.25em 0 1.5em;
@@ -9511,20 +9512,19 @@ html {
 }
 .quire-menu__header h1, .quire-menu__header h2, .quire-menu__header h3, .quire-menu__header h4, .quire-menu__header h5, .quire-menu__header h6 {
   color: #ffffff;
-  font-family: "IBM Plex Sans Condensed", sans-serif;
-  letter-spacing: -0.025em;
+  font-family: Times, serif;
 }
 .quire-menu h6 {
-  font-family: "IBM Plex Sans Condensed", sans-serif;
-  letter-spacing: 0.25px;
-  color: #333333;
+  font-family: Times, serif;
+  letter-spacing: 0.5px;
+  color: #000000;
   font-size: 0.875rem;
   line-height: 1.28;
   font-weight: 700;
   text-transform: uppercase;
   margin-top: 20px;
   padding-bottom: 6px;
-  border-bottom: 1px solid #333333;
+  border-bottom: 1px solid #000000;
 }
 .quire-menu__formats {
   margin-top: 2rem;
@@ -9532,8 +9532,8 @@ html {
 .quire-menu__formats h6 {
   color: #999999;
   border-color: #999999;
-  color: #999999;
-  border-color: #999999;
+  color: #666666;
+  border-color: #666666;
 }
 .quire-menu__formats .menu-list {
   margin-top: 0.75em;
@@ -9543,7 +9543,7 @@ html {
   border-radius: 0;
 }
 .quire-menu__header a:hover, .quire-menu__list a:hover, .quire-menu__formats a:hover {
-  background-color: #333333;
+  background-color: #000000;
   text-decoration: underline;
   border-left-width: 0;
 }
@@ -9568,12 +9568,12 @@ html {
   background-color: inherit;
 }
 .quire-menu .page-item a, .quire-menu .section-item a {
-  font-family: "Noto Sans", sans-serif;
+  font-family: "Noto Serif", serif;
 }
 .quire-menu .page-item a.active, .quire-menu .section-item a.active {
   margin-left: -1.25em;
-  border-left: 4px solid #CF4747;
-  color: #CF4747 !important;
+  border-left: 4px solid maroon;
+  color: maroon !important;
   text-decoration: none;
   padding-left: calc(0.75em + 4px);
 }
@@ -9581,7 +9581,7 @@ html {
   border-left-width: 4px;
 }
 .quire-menu .page-item a.active *, .quire-menu .section-item a.active * {
-  color: #CF4747 !important;
+  color: maroon !important;
 }
 .quire-menu .page-item .page-item a.active, .quire-menu .section-item .page-item a.active {
   margin-left: calc(-2.75em - 4px);
@@ -9685,28 +9685,26 @@ html {
   border-radius: 0;
 }
 .quire-search__inner__list-item {
-  font-family: "Noto Sans", sans-serif;
+  font-family: "Noto Serif", serif;
   margin: 1.5rem 0;
 }
 .quire-search__inner__list-item a {
   display: block;
   margin-bottom: 0.25em;
   width: fit-content;
-  color: #CF4747;
-  border-bottom: 1px dotted #CF4747;
-}
-.quire-search__inner__list-item a * {
-  color: #CF4747;
+  color: #000000;
+  border-bottom: 1px dotted #000000;
+  letter-spacing: 0px;
 }
 .quire-search__inner__list-item a:hover {
-  border-bottom: 1px solid #a02a2a;
+  border-bottom: 1px solid maroon;
 }
 .quire-search__inner__list-item a:hover * {
-  color: #a02a2a;
+  color: maroon;
 }
 .quire-search__inner__list-item .title {
   font-size: 1.25rem;
-  font-family: "IBM Plex Sans Condensed", sans-serif;
+  font-family: Times, serif;
   text-transform: none;
   margin-bottom: 0.1em;
 }
@@ -9737,7 +9735,7 @@ html {
   bottom: 0;
 }
 .quire-search__close-button:hover {
-  background-color: #CF4747;
+  background-color: maroon;
   border: 0;
 }
 .quire-search__close-button:hover svg {
@@ -9788,9 +9786,8 @@ html div {
 .quire-page h5,
 .quire-page h6 {
   margin-bottom: 1rem;
-  color: #333333;
-  font-family: "IBM Plex Sans Condensed", sans-serif;
-  letter-spacing: -0.025em;
+  color: #000000;
+  font-family: Times, serif;
 }
 @media print {
   .quire-page h1,
@@ -9837,7 +9834,7 @@ html div {
   line-height: 1.25;
 }
 .quire-page__header__contributor {
-  font-family: "Noto Sans", sans-serif;
+  font-family: "Noto Serif", serif;
   font-weight: 400;
   font-style: italic;
   margin-top: 3rem;
@@ -9867,14 +9864,14 @@ html div {
   line-height: 1.4;
 }
 .quire-page__content {
-  font-family: "Noto Sans", sans-serif;
+  font-family: "Noto Serif", serif;
   font-size: 1em;
   line-height: 1.78;
   font-weight: 400;
   padding-top: 0;
   padding-bottom: 0;
   position: relative;
-  color: #333333;
+  color: #000000;
   font-size: 1em;
   font-weight: 400;
   line-height: 1.6;
@@ -9914,7 +9911,7 @@ html div {
 .quire-page__content .container .content {
   margin-top: 45px;
   padding: 2.5rem 2.5rem;
-  background-color: #ffffff;
+  background-color: lightgrey;
 }
 @media screen and (max-width: 500px) {
   .quire-page__content .container .content {
@@ -9940,7 +9937,8 @@ html div {
   text-align: center;
 }
 .quire-page__content .container .content hr:after {
-  content: "◆            ◆            ◆";
+  content: "✦            ✦            ✦";
+  font-size: 1em;
   font-size: 0.875rem;
   position: relative;
   top: -0.875rem;
@@ -9957,7 +9955,7 @@ html div {
 }
 .quire-page__content .container .content table td,
 .quire-page__content .container .content table th {
-  color: #333333;
+  color: #000000;
   border-width: 0 0 1px;
 }
 @media print {
@@ -9976,7 +9974,7 @@ html div {
   margin-left: 1em;
 }
 .quire-page__content .container .content ul li:before {
-  content: "◆";
+  content: "✦";
   font-size: 0.875rem;
   display: block;
   float: left;
@@ -10027,7 +10025,7 @@ html div {
   .quire-page__content .container .content blockquote h4:first-child:before,
   .quire-page__content .container .content blockquote h5:first-child:before,
   .quire-page__content .container .content blockquote h6:first-child:before {
-    color: #c1d0d3;
+    color: #adadad;
     font-size: 5em;
     line-height: 0.1em;
     margin-right: 0.25em;
@@ -10035,6 +10033,14 @@ html div {
     position: absolute;
     top: 0.35em;
     left: -0.55em;
+    font-family: Times, serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 4em;
+    color: #000000;
+    top: 0.45em;
+    left: -0.7em;
+    font-size: 3.125em;
   }
 }
 .quire-page__content .container .content blockquote ul,
@@ -10045,10 +10051,10 @@ html div {
   margin-left: 1em;
 }
 .quire-page__content .container .content blockquote ol:first-child:before {
-  left: -0.75em;
+  left: -1em;
 }
 .quire-page__content .container .content .backmatter {
-  font-family: "Noto Serif", serif;
+  font-family: "Noto Sans", sans-serif;
   font-size: 0.875rem;
   line-height: 1.6;
   padding-top: 0;
@@ -10056,15 +10062,15 @@ html div {
 .quire-page__content .container .content .backmatter h2,
 .quire-page__content .container .content .backmatter h3,
 .quire-page__content .container .content .backmatter h4 {
-  font-family: "IBM Plex Sans Condensed", sans-serif;
-  letter-spacing: 0.25px;
-  color: #333333;
+  font-family: Times, serif;
+  letter-spacing: 0.5px;
+  color: #000000;
   font-size: 1em;
   line-height: 1.28em;
   text-transform: uppercase;
   margin-top: 20px;
   padding-bottom: 6px;
-  border-bottom: 1px solid #333333;
+  border-bottom: 1px solid #000000;
 }
 @media print {
   .quire-page__content .container .content .backmatter h2,
@@ -10096,7 +10102,7 @@ html div {
   letter-spacing: 0;
 }
 .quire-page__content .container .content .backmatter .title {
-  color: #333333;
+  color: #000000;
 }
 @media print {
   .quire-page__content .container .content .backmatter .title {
@@ -10111,13 +10117,22 @@ html div {
 }
 .quire-page__content .container .content .footnotes {
   font-size: 0.875em;
-  font-family: "Noto Serif", serif;
+  font-family: "Noto Sans", sans-serif;
 }
 .quire-page__content .container .content .footnotes hr {
   display: none;
 }
 .quire-page__content .container .content .footnotes * {
   line-height: 1.6em;
+}
+.quire-page__content .container .content .footnotes ul li:before {
+  content: "✦";
+  font-size: 1em;
+  display: inline-block;
+  width: 1em;
+  margin-left: -0.75em;
+  box-sizing: border-box;
+  vertical-align: text-bottom;
 }
 .quire-page__content .container.is-fullhd {
   padding: 0 2em;
@@ -10147,10 +10162,10 @@ html div {
 .quire-page__abstract h2 {
   font-weight: 400;
   font-size: 1.625em;
-  font-family: "IBM Plex Sans Condensed", sans-serif;
+  font-family: Times, serif;
 }
 .quire-page__abstract .container {
-  background-color: #ffffff;
+  background-color: lightgrey;
   padding: 2em 2.75em 0em;
   margin: 0 auto;
   max-width: 720px;
@@ -10173,7 +10188,8 @@ html div {
 .quire-page__abstract .container:after {
   display: block;
   text-align: center;
-  content: "◆            ◆            ◆";
+  content: "✦            ✦            ✦";
+  font-size: 1em;
   margin: 0 auto;
   background-color: transparent;
   font-style: normal;
@@ -10201,8 +10217,8 @@ html div {
 }
 
 .quire-page__header {
-  background-color: #EEF2F3;
-  color: #333333;
+  background-color: lightgrey;
+  color: #000000;
   background-size: cover;
   background-repeat: no-repeat;
   background-position: cover;
@@ -10232,7 +10248,7 @@ html div {
   height: 80vh;
 }
 .quire-page__header.hero__image .quire-page__header__title, .quire-page__header.hero__image .quire-page__header__subtitle {
-  color: #ffffff;
+  color: lightgrey;
 }
 @media screen and (max-width: 500px) {
   .quire-page__header .hero-body {
@@ -10243,17 +10259,17 @@ html div {
   line-height: 1.3;
   display: table;
   width: fit-content;
-  font-size: 1.2rem;
-  color: #333333;
-  border-top: 2px solid #CF4747;
-  border-bottom: 2px solid #CF4747;
-  padding: 0.2rem 0.3rem;
-  letter-spacing: 0;
-  margin: 0 auto 1.9em;
+  font-size: 1.4rem;
+  font-weight: normal;
+  background-color: #7a7a7a;
+  color: lightgrey;
+  padding: 0.35rem 0.45rem;
+  margin: 0 auto 1.7em;
+  min-width: 2.6rem;
 }
 @media print {
   .quire-page__header .hero-body .label {
-    color: #000000;
+    min-width: 0.3125in;
   }
 }
 @media screen and (min-width: 700px) {
@@ -10314,23 +10330,23 @@ html div {
   flex-grow: 0.7;
 }
 .quire-splash .quire-page__header .hero-body .quire-page__header__title {
-  color: #333333;
+  color: #000000;
 }
 @media print {
   .quire-splash .quire-page__header .hero-body .quire-page__header__title {
-    color: #333333;
+    color: #000000;
   }
 }
 .quire-splash .quire-page__header .hero-body .label {
-  color: #333333;
+  color: #000000;
 }
 @media print {
   .quire-splash .quire-page__header .hero-body .label {
-    color: #333333;
+    color: #000000;
   }
 }
 .quire-splash .quire-page__content .container .content {
-  background-color: #EEF2F3;
+  background-color: lightgrey;
 }
 @media print {
   .quire-splash .quire-page__content .container .content {
@@ -10356,8 +10372,8 @@ html div {
 }
 .quire-page__content .content a:not(.q-figure__modal-link):not(.q-figure__reset-link):not(.quire-contributor__url):not(.accordion-section__heading-link) {
   line-height: inherit;
-  color: #CF4747;
-  border-bottom: 1px dotted #CF4747;
+  color: #000000;
+  border-bottom: 1px dotted #000000;
 }
 @media print {
   .quire-page__content .content a:not(.q-figure__modal-link):not(.q-figure__reset-link):not(.quire-contributor__url):not(.accordion-section__heading-link) {
@@ -10366,12 +10382,12 @@ html div {
   }
 }
 .quire-page__content .content a:not(.q-figure__modal-link):not(.q-figure__reset-link):not(.quire-contributor__url):not(.accordion-section__heading-link):hover {
-  color: #a02a2a !important;
-  border-bottom: 1px solid #a02a2a !important;
+  color: maroon !important;
+  border-bottom: 1px solid maroon !important;
 }
 .quire-page__content .content a:not(.q-figure__modal-link):not(.q-figure__reset-link):not(.quire-contributor__url):not(.accordion-section__heading-link):focus {
   background-color: #F9F9A3;
-  color: #333333 !important;
+  color: #000000 !important;
 }
 .quire-page__content .content figure > a:hover {
   border-bottom-width: 0 !important;
@@ -10399,7 +10415,7 @@ html div {
 .quire-page__content .content a.footnote-return:hover,
 .quire-page__content .content a.footnote-backref:hover,
 .quire-page__content .content a.footnote-ref:hover {
-  color: #a02a2a !important;
+  color: maroon !important;
   border-bottom-width: 0 !important;
 }
 .quire-page__content .content .quire-page__content__references dl {
@@ -10417,7 +10433,7 @@ html div {
 }
 .quire-page__content .content tbody tr:hover {
   background-color: #F9F9A3;
-  color: #333333 !important;
+  color: #000000 !important;
 }
 .quire-page__content .content ol,
 .quire-page__content .content dl {
@@ -10551,8 +10567,8 @@ html div {
   }
 }
 .quire-cover__hero {
-  background-color: #6A8EB8;
-  background-image: linear-gradient(90deg, #6A8EB8, #CF4747);
+  background-color: maroon;
+  background-image: linear-gradient(90deg, maroon, #CF4747);
   position: relative;
   text-align: left;
   display: flex;
@@ -10580,7 +10596,7 @@ html div {
   }
 }
 .quire-cover__hero .title {
-  font-family: "IBM Plex Sans Condensed", sans-serif;
+  font-family: Times, serif;
   font-size: calc(2rem * 1);
   font-weight: 700;
   line-height: 1.07;
@@ -10612,7 +10628,7 @@ html div {
   }
 }
 .quire-cover__hero .reading-line {
-  font-family: "IBM Plex Sans Condensed", sans-serif;
+  font-family: Times, serif;
   font-style: italic;
   font-size: calc(1.25rem * 1);
   line-height: 1.2;
@@ -10625,7 +10641,7 @@ html div {
   }
 }
 .quire-cover__hero .contributor {
-  font-family: "IBM Plex Sans Condensed", sans-serif;
+  font-family: Times, serif;
   font-size: calc(1em * 1);
   margin-top: calc(.5rem * 1);
   color: #ffffff;
@@ -10673,7 +10689,7 @@ html div {
   margin-bottom: 0;
 }
 .quire-cover__button {
-  background-color: #CF4747;
+  background-color: maroon;
   color: #fff;
   border-width: 0px;
   border-radius: 2px;
@@ -10691,7 +10707,7 @@ html div {
   fill: #fff;
 }
 .quire-cover__button:hover {
-  background-color: #a02a2a;
+  background-color: #340000;
   color: #ffffff;
 }
 .quire-cover .quire-page__content {
@@ -10699,12 +10715,12 @@ html div {
 }
 .quire-cover .quire-page__content .container.is-fluid .content {
   padding-top: 2em !important;
-  color: #333333;
-  background-color: #EEF2F3;
+  color: #000000;
+  background-color: lightgrey;
 }
 .quire-cover .quire-page__content .container.is-fluid .content p {
   line-height: 2em;
-  font-family: "Noto Sans", sans-serif;
+  font-family: "Noto Serif", serif;
 }
 @media screen and (min-width: 1028px) {
   .quire-cover .quire-page__content .container.is-fluid {
@@ -10723,10 +10739,10 @@ html div {
 }
 .quire-cover .quire-contents-buttons ul li.quire-nav-button a {
   padding-top: 0.325em;
-  color: #ffffff;
+  color: lightgrey;
 }
 .quire-cover .quire-contents-buttons ul li.quire-nav-button svg {
-  fill: #ffffff;
+  fill: lightgrey;
 }
 .quire-cover .quire-contents-buttons .nav-title {
   font-size: initial;
@@ -10806,7 +10822,7 @@ html div {
   border-bottom: 1px dotted #333333;
 }
 .quire-contents-list ol.arrow .section-indent a:hover {
-  border-bottom: 1px solid #a02a2a;
+  border-bottom: 1px solid #340000;
 }
 .quire-contents-list ol.arrow .section-indent a .title span {
   padding-left: 0.2em;
@@ -10820,7 +10836,7 @@ html div {
 .quire-contents-list .menu-list .section-header {
   text-align: center;
   font-size: 1rem !important;
-  border-top: 1px solid #e6e6e6;
+  border-top: 1px solid #bababa;
   padding-top: 3.3375em;
   margin-bottom: 0;
 }
@@ -10868,12 +10884,12 @@ html div {
   display: none;
 }
 .quire-contents-list .menu-list .section-item ol a:hover {
-  border-bottom: 1px solid #a02a2a;
+  border-bottom: 1px solid maroon;
 }
 .quire-contents-list .menu-list .page-item.no-landing,
 .quire-contents-list .menu-list .section-item.no-landing {
   font-size: 1.375em;
-  font-family: "IBM Plex Sans Condensed", sans-serif;
+  font-family: Times, serif;
   color: #333333;
 }
 @media print {
@@ -10913,18 +10929,18 @@ html div {
 }
 .quire-contents-list .menu-list a:hover {
   background-color: inherit;
-  color: #a02a2a;
+  color: maroon;
 }
 .quire-contents-list .menu-list a:hover .arrow {
   transform: translateX(0.75em);
   -webkit-transition: all 0.25s ease;
-  fill: #a02a2a;
+  fill: maroon;
 }
 .quire-contents-list .menu-list a:hover .arrow svg {
-  fill: #a02a2a !important;
+  fill: maroon !important;
 }
 .quire-contents-list .menu-list a:hover * {
-  color: #a02a2a;
+  color: maroon;
 }
 .quire-contents-list .menu-list a:hover figure.image {
   -webkit-box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.75);
@@ -10941,11 +10957,11 @@ html div {
   }
 }
 .quire-contents-list.list, .quire-contents-list.brief {
-  font-family: "IBM Plex Sans Condensed", sans-serif;
+  font-family: Times, serif;
 }
 @media print {
   .quire-contents-list.list, .quire-contents-list.brief {
-    font-family: "Noto Sans", sans-serif;
+    font-family: "Noto Serif", serif;
   }
 }
 .quire-contents-list.list li > ol, .quire-contents-list.brief li > ol {
@@ -10970,7 +10986,7 @@ html div {
   font-weight: 400;
   line-height: 1.35;
   margin-bottom: 0;
-  font-family: "IBM Plex Sans Condensed", sans-serif;
+  font-family: Times, serif;
 }
 .quire-contents-list.abstract .abstract-text {
   font-size: 0.875em;
@@ -11010,7 +11026,7 @@ html div {
   padding-right: 2.25em;
   padding-left: 2.25em;
   font-size: 0.75em;
-  font-family: "IBM Plex Sans Condensed", sans-serif;
+  font-family: Times, serif;
 }
 @media screen and (min-width: 500px) {
   .quire-contents-list.grid {
@@ -11042,8 +11058,8 @@ html div {
   font-size: inherit;
   font-weight: inherit;
   line-height: inherit;
-  font-family: "IBM Plex Sans Condensed", sans-serif;
-  color: #CF4747;
+  font-family: Times, serif;
+  color: #333333;
 }
 @media print {
   .quire-contents-list.grid .title {
@@ -11071,7 +11087,7 @@ html div {
   margin-top: 0.1625em;
 }
 .quire-contents-list.grid .menu-list a .arrow {
-  fill: #CF4747;
+  fill: #000000 !important;
 }
 .quire-contents-list.grid .menu-list a .card.no-image .arrow {
   margin-top: 0;
@@ -11086,10 +11102,13 @@ html div {
   }
 }
 .quire-contents-list.grid .menu-list ol.arrow a .arrow {
-  fill: #CF4747;
+  fill: #000000 !important;
+}
+.quire-contents-list.grid .menu-list ol.arrow a .arrow {
+  fill: maroon;
 }
 .quire-contents-list.grid .menu-list ol.arrow .section-item {
-  border-top: 1px solid #e6e6e6;
+  border-top: 1px solid #bababa;
   font-weight: 700;
   padding-bottom: 0;
   margin: 0;
@@ -11157,8 +11176,8 @@ html div {
   display: block;
   border-radius: 2px;
   box-shadow: none;
-  background-color: #ffffff;
-  color: #CF4747;
+  background-color: lightgrey;
+  color: #000000;
 }
 @media print {
   .quire-contents-list.grid ol li .card {
@@ -11170,14 +11189,14 @@ html div {
   border-bottom: none;
 }
 .quire-contents-list.grid ol li .card a:hover {
-  color: #a02a2a;
+  color: maroon;
   border-bottom: none;
 }
 .quire-contents-list.grid ol li .card a:hover svg {
-  fill: #a02a2a;
+  fill: maroon;
 }
 .quire-contents-list.grid ol li .card a svg {
-  fill: #CF4747;
+  fill: #333333;
   vertical-align: text-bottom;
 }
 .quire-contents-list.grid ol li .card .card-image {
@@ -11244,10 +11263,10 @@ html div {
   margin-top: 0;
 }
 .quire-contents-list.grid ol li .card-content:hover {
-  color: #a02a2a;
+  color: maroon;
 }
 .quire-contents-list.grid ol li .card-content:hover .title {
-  color: #a02a2a;
+  color: maroon;
 }
 .quire-contents-list.grid ol li .card-content .artist {
   text-transform: uppercase;
@@ -11261,7 +11280,7 @@ html div {
 .quire-contents-list.grid ol li.section-item {
   border-top: 1px solid;
   border-bottom: 1px solid;
-  border-color: #c1d0d3;
+  border-color: #adadad;
 }
 @media print {
   .quire-contents-list.grid ol li.section-item {
@@ -11404,9 +11423,9 @@ html div {
   margin-top: 0.5em;
   margin-left: 0;
   margin-right: 0;
-  border-top: 1px solid #CF4747;
-  border-bottom: 1px solid #CF4747;
-  padding: 1rem 0;
+  border-top: 1px solid transparent;
+  border-bottom: 1px solid transparent;
+  padding: 0;
 }
 .q-figure > a {
   border: none;
@@ -11424,10 +11443,10 @@ html div {
   box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.75);
 }
 .q-figure > a:hover .q-figure__label--below {
-  color: #a02a2a;
+  color: maroon;
 }
 .q-figure > a:hover .q-figure__label--below svg {
-  fill: #a02a2a;
+  fill: maroon;
 }
 .q-figure img {
   object-fit: cover;
@@ -11437,7 +11456,6 @@ html div {
   color: currentColor;
 }
 .q-figure--table table caption {
-  color: #CF4747;
   font-size: 1rem;
   margin: 0 1rem 1rem;
 }
@@ -11509,7 +11527,7 @@ html div {
   margin-right: 0.5rem;
 }
 .q-figure__label a {
-  color: #CF4747;
+  color: #000000;
 }
 .q-figure__label .q-figure__label-icon {
   display: inline-block;
@@ -11524,7 +11542,7 @@ html div {
   }
 }
 .q-figure__label .q-figure__label-icon svg {
-  fill: #CF4747;
+  fill: #000000;
   width: 1.5rem;
   height: 1.5rem;
 }
@@ -11571,7 +11589,7 @@ html div {
   position: relative;
 }
 .q-figure__media-fallback h5.header {
-  font-family: "Noto Sans", sans-serif;
+  font-family: "Noto Serif", serif;
   font-size: 0.85em;
   color: #000000;
   font-weight: 400;
@@ -11857,11 +11875,9 @@ div.multimedia .caption {
 }
 .q-figure__label--below .q-figure__modal-link {
   display: inline;
-  color: #CF4747;
-  transition: color 0.35s;
 }
 .q-figure__label--below .q-figure__modal-link:hover {
-  color: #a02a2a;
+  color: maroon;
 }
 
 /** VIDEO/AUDIO FALLBACK ELEMENTS **/
@@ -12360,7 +12376,7 @@ q-modal[data-modal-active=true] {
   display: block;
   padding: 6px 10px;
   background: rgba(0, 0, 0, 0.5);
-  font-family: "IBM Plex Sans Condensed", sans-serif;
+  font-family: Times, serif;
   font-size: 0.875rem;
   font-weight: bold;
 }
@@ -12478,7 +12494,7 @@ q-modal[data-modal-active=true] {
   }
 }
 .quire-entry__header .container {
-  background-color: #ffffff;
+  background-color: lightgrey;
   padding-bottom: 2rem;
 }
 @media screen and (max-width: 500px) {
@@ -12501,15 +12517,15 @@ q-modal[data-modal-active=true] {
   }
 }
 .quire-entry__tombstone {
-  font-family: "Noto Sans", sans-serif;
+  font-family: "Noto Serif", serif;
 }
 .quire-entry__tombstone a {
-  color: #CF4747;
-  border-bottom: 1px dotted #CF4747;
+  color: #000000;
+  border-bottom: 1px dotted #000000;
 }
 .quire-entry__tombstone a:hover {
-  color: #a02a2a;
-  border-bottom: 1px solid #a02a2a;
+  color: maroon;
+  border-bottom: 1px solid maroon;
 }
 @media print {
   .quire-entry__tombstone a {
@@ -12520,18 +12536,21 @@ q-modal[data-modal-active=true] {
 .quire-entry__tombstone a.button {
   -webkit-transition: all 0.25s ease;
   transition: all 0.25s ease;
-  color: #CF4747;
+  color: #000000;
+}
+.quire-entry__tombstone a.button svg {
+  fill: #000000;
 }
 .quire-entry__tombstone a.button:hover {
-  background-color: #a02a2a;
-  border-color: #a02a2a;
+  background-color: maroon;
+  border-color: maroon;
   color: #fff;
 }
 .quire-entry__tombstone a.button:hover svg {
   fill: #fff;
 }
 .quire-entry__tombstone > div.container {
-  background-color: #ffffff;
+  background-color: lightgrey;
   padding-bottom: 2em;
 }
 @media screen and (max-width: 500px) {
@@ -12553,7 +12572,7 @@ q-modal[data-modal-active=true] {
   padding-bottom: 1em;
   border-top: 1px solid #333333;
   border-bottom: 1px solid #333333;
-  background-color: #ffffff;
+  background-color: lightgrey;
   color: #333333;
   font-size: 0.875em;
 }
@@ -12576,18 +12595,18 @@ q-modal[data-modal-active=true] {
 .quire-entry__tombstone .button {
   margin-left: 2em;
   margin-top: 1.5em;
-  background-color: #ffffff;
+  background-color: lightgrey;
   -moz-border-radius: 2px;
   -webkit-border-radius: 2px;
   border-radius: 2px;
-  border: 1px solid #CF4747;
+  border: 1px solid #333333;
 }
 .quire-entry__tombstone svg {
   position: relative;
   height: 1em;
   width: 1em;
   margin-left: 0.5em;
-  fill: #CF4747;
+  fill: maroon;
 }
 .quire-entry__tombstone svg img {
   position: absolute;
@@ -12645,7 +12664,7 @@ q-modal[data-modal-active=true] {
   padding-bottom: 1.5rem;
 }
 .quire-entry .quire-page__content .content {
-  background-color: #ffffff;
+  background-color: lightgrey;
   margin-top: 0;
   padding: 0 2rem 2.5em;
 }
@@ -12724,7 +12743,7 @@ q-modal[data-modal-active=true] {
   .quire-entry div.side-by-side div.quire-entry__content {
     width: 44%;
     flex: none;
-    background: #EEF2F3;
+    background: lightgrey;
   }
 }
 @media screen and (min-width: 1184px) {
@@ -12794,7 +12813,7 @@ q-modal[data-modal-active=true] {
   font-style: normal;
   color: inherit;
   cursor: pointer;
-  border-bottom: 1px dotted #CF4747;
+  border-bottom: 1px dotted #000000;
 }
 @media print {
   .quire-citation__button {
@@ -12802,19 +12821,19 @@ q-modal[data-modal-active=true] {
   }
 }
 .quire-citation__button:hover {
-  color: #a02a2a !important;
-  border-bottom: 1px solid #a02a2a;
+  color: maroon !important;
+  border-bottom: 1px solid maroon;
 }
 .quire-citation__button:hover {
-  color: #a02a2a !important;
-  border-bottom: 1px solid #a02a2a;
+  color: maroon !important;
+  border-bottom: 1px solid maroon;
 }
 .quire-citation__button--icon {
   border-bottom-width: 0;
   margin-left: 2px;
 }
 .quire-citation__button--icon svg {
-  fill: #CF4747;
+  fill: #000000;
   width: 1em;
   height: 1em;
   pointer-events: none;
@@ -12874,10 +12893,10 @@ q-modal[data-modal-active=true] {
   margin-left: 0.4em;
 }
 .quire-copyright__icon__link svg {
-  color: #333333;
+  color: #000000;
 }
 .quire-copyright__icon__link svg:hover {
-  fill: #a02a2a;
+  fill: maroon;
 }
 .quire-copyright .copyright__publisher-logo {
   display: inline-block;
@@ -12971,13 +12990,13 @@ q-modal[data-modal-active=true] {
 .quire-page__content .content .quire-contributor__url svg {
   width: 0.875em;
   height: 0.875em;
-  fill: #CF4747;
+  fill: #000000;
 }
 .quire-page__content .content .quire-contributor__url:hover {
   border-bottom-width: 0px !important;
 }
 .quire-page__content .content .quire-contributor__url:hover svg {
-  fill: #a02a2a;
+  fill: maroon;
 }
 .quire-contributor__pic {
   width: 100px;
@@ -13036,7 +13055,7 @@ q-modal[data-modal-active=true] {
   overflow: auto;
   background: #ffffff;
   color: #333333;
-  font-family: "Noto Sans", sans-serif;
+  font-family: "Noto Serif", serif;
 }
 .quire-deepzoom .leaflet-table table {
   table-layout: auto;
@@ -13181,7 +13200,7 @@ div.quire-counter-container {
   z-index: 1046;
 }
 div.quire-counter-container > span {
-  font-family: "IBM Plex Sans Condensed", sans-serif;
+  font-family: Times, serif;
   font-size: 1rem;
   font-weight: bold;
 }
@@ -13199,11 +13218,11 @@ div.quire-caption-container > .caption {
   display: block;
   padding: 6px 10px;
   background: rgba(0, 0, 0, 0.5);
-  font-family: "IBM Plex Sans Condensed", sans-serif;
+  font-family: Times, serif;
   font-size: 0.875rem;
 }
 div.quire-caption-container > .caption a {
-  color: #CF4747;
+  color: maroon;
   border-bottom: 1px dotted;
 }
 div.quire-caption-container .q-figure__label-text {
@@ -13211,7 +13230,7 @@ div.quire-caption-container .q-figure__label-text {
   font-weight: bold;
 }
 div.quire-caption-container a {
-  color: #CF4747;
+  color: maroon;
   border-bottom: 1px dotted;
 }
 div.mfp-title {
@@ -13368,8 +13387,8 @@ body > div.mfp-bg.mfp-ready {
   -webkit-transition: all 0.25s ease;
   transition: all 0.25s ease;
   font-size: 1rem;
-  border: 1px solid #CF4747;
-  color: #CF4747;
+  border: 1px solid #333333;
+  color: #333333;
 }
 .quire-contents-buttons li.quire-nav-button a {
   display: inline-block;
@@ -13385,11 +13404,11 @@ body > div.mfp-bg.mfp-ready {
   margin-right: 0.55rem;
 }
 .quire-contents-buttons li.quire-nav-button.prev a {
-  color: #CF4747;
+  color: #333333;
   margin-right: 0.5rem;
 }
 .quire-contents-buttons li.quire-nav-button.prev svg {
-  fill: #CF4747;
+  fill: #333333;
   margin-right: 0.5rem;
 }
 .quire-contents-buttons li.quire-nav-button svg {
@@ -13402,20 +13421,20 @@ body > div.mfp-bg.mfp-ready {
   vertical-align: super;
 }
 .quire-contents-buttons li.quire-nav-button.next {
-  background-color: #CF4747;
+  background-color: #333333;
 }
 .quire-contents-buttons li.quire-nav-button.next svg {
   fill: #fff;
 }
 .quire-contents-buttons li.quire-nav-button.next:hover {
-  background-color: #a02a2a !important;
+  background-color: maroon !important;
 }
 .quire-contents-buttons li.quire-nav-button.next a {
   color: #fff;
 }
 .quire-contents-buttons li.quire-nav-button:hover {
-  background-color: #a02a2a;
-  border-color: #a02a2a;
+  background-color: maroon;
+  border-color: maroon;
 }
 .quire-contents-buttons li.quire-nav-button:hover a {
   color: #fff;
@@ -13433,7 +13452,7 @@ body > div.mfp-bg.mfp-ready {
     marks: crop;
     margin-top: 0.75in;
     margin-bottom: 0.875in;
-    font-family: "IBM Plex Sans Condensed", sans-serif;
+    font-family: Times, serif;
     font-size: 8pt;
     color: #000000;
   }
@@ -13694,8 +13713,6 @@ body > div.mfp-bg.mfp-ready {
     width: 2.0625in;
     height: 2.5in;
     margin-bottom: 0.1875in;
-    background-color: #EEF2F3;
-    padding: 1em;
     position: relative;
     margin: 0 0.09375in 0.1875in;
   }
@@ -13710,7 +13727,7 @@ body > div.mfp-bg.mfp-ready {
   .quire-contents-list.grid .menu-list ol .page-item .card.image .card-content {
     padding: 0.1875in 0;
     font-size: 1.25rem;
-    font-family: "Noto Sans", sans-serif;
+    font-family: "Noto Serif", serif;
   }
   .quire-contents-list.grid .menu-list ol .page-item .card.image img {
     max-height: 1.25in;
@@ -13808,7 +13825,7 @@ body > div.mfp-bg.mfp-ready {
     justify-content: space-around;
     align-items: flex-end;
     text-align: right;
-    font-family: "IBM Plex Sans Condensed", sans-serif;
+    font-family: Times, serif;
   }
   .title-page * {
     max-width: 5.5in;
@@ -13816,7 +13833,7 @@ body > div.mfp-bg.mfp-ready {
   .title-page .title {
     font-size: 4em;
     font-weight: 700;
-    color: #CF4747;
+    color: maroon;
     line-height: 1.1;
     margin-bottom: 0.3em;
   }
@@ -13834,9 +13851,9 @@ body > div.mfp-bg.mfp-ready {
     flex-direction: column;
     justify-content: center;
     align-items: flex-end;
-    font-family: "IBM Plex Sans Condensed", sans-serif;
+    font-family: Times, serif;
     font-size: 1.5em;
-    color: #CF4747;
+    color: maroon;
     text-align: right;
   }
   .copyright-page {
