@@ -14,19 +14,19 @@ url: 'https://netlify.app'
 # ------------------------------------------------------------------------------
 # Title & Description
 title: The Expression of Anatomy
-subtitle: The Anatomical Drawings of Sir Charles Bell (1774-1842)
+subtitle: The Anatomical Art of Sir Charles Bell (1774-1842)
 reading_line:
 short_title:
 
 description:
   one_line:
-  full: "In this short Quire project, I provide a brief biographical overview of the life and career of Sir Charles Bell (1774-1842), a renowned physician and anatomical artist. I use Bell's book *Anatomy of Expression in Painting* (1806), later republished as *The Anatomy and Philosophy of Expression in Painting* (1824) as a case study of his work. In the Afterword, I discuss my experience examining the book at Getty Research Institute’s Special Collections and my experience working on the project. This short work is a meant as a cursory examination of Charles Bell’s work and was completed as part of the 2023 Getty Marrow Undergraduate Internship with Getty Publications."
+  full: "In this short Quire project, I provide a brief biographical overview of the life and career of Sir Charles Bell (1774-1842), a renowned Scottish physician and anatomical artist. I use Bell's book *Anatomy of Expression in Painting* (1806), later republished as *The Anatomy and Philosophy of Expression in Painting* (1824) as a case study of his work. This short project was completed as part of the 2023 Getty Marrow Undergraduate Internship with Getty Publications."
 
 # ------------------------------------------------------------------------------
 # Publication Details
 # ------------------------------------------------------------------------------
 
-pub_date: 2023-16-08 # YYYY-MM-DD
+pub_date: 2023-25-08 # YYYY-MM-DD
 language: en
 pub_type: book # book | journal-periodical | other
 
@@ -50,10 +50,10 @@ contributor:
     type: primary
     first_name: Justine
     last_name: Sargent
-    title: Intern, Getty Publications
+    title: Getty Marrow Intern, Getty Publications
     affiliation: J. Paul Getty Trust
-    bio: "Justine Sargent (she/her) is a 2023 Getty Marrow Undergraduate Intern at Getty Publications. She graduated from UCLA in 2023 with a degree in English and Film. Her research interests are nineteenth-century British and Irish literature, medical humanities, and queer and feminist studies. In her free time, Justine enjoys twiddling her thumbs, watching horror movies, and drinking bad coffee."
-    url: 
+    bio: "Justine Sargent is a 2023 Getty Marrow Undergraduate Intern at Getty Publications. She graduated from UCLA in 2023 with a degree in English and a minor in Film, Television, & Digital Media. Her research interests are nineteenth-century English literature, medical humanities, queer theory, and the Gothic. In her free time, Justine enjoys twiddling her thumbs, watching horror movies, and drinking bad coffee."
+    url: https://www.linkedin.com/in/justinesargentucla/
     image:
 
 # ------------------------------------------------------------------------------

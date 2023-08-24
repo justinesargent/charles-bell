@@ -7,7 +7,7 @@ image:
 ---
 **Sir Charles Bell (1774-1842)** is chiefly known for his work as a neurophysiologist and a surgeon.[^1]  As part of his humanistic inquiry, Charles believed that “dissection was key to understanding the human body,” utilizing art as a tool of medical pedagogy.[^2]  He used his own illustrations and anatomical wax models for teaching.[^3]  During his career, Charles made important discoveries in determining the nervous system’s sensory functions and was an early advocate in the idea that parts of the brain controlled specific functions. His primary contributions are related to his findings for Bell’s palsy, or “facial paralysis caused by nerve dysfunction.”[^4]  He is also attributed to Bell’s law.[^5]
 
-{% figure 'fig-11' %}
+{% figure 'fig-27' %}
 
 # Notes
 

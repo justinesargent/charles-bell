@@ -3,12 +3,12 @@ figure_list:
   - id: "fig-3"
     label: "Figure 9"
     src: figures/fig-3.png
-    caption: "*Muscles of the face, p. 157.*."
+    caption: "*Muscles of the face, 157*."
 
   - id: "fig-9"
     label: "Figure 10"
     src: figures/fig-9.png
-    caption: "*Suspicion or jealousy, p. 136*."
+    caption: "*Suspicion or jealousy, 136*."
 
   - id: "fig-11"
     label: "Figure 1"
@@ -16,19 +16,19 @@ figure_list:
     caption: "*Charles Bell*."
 
   - id: "fig-12"
-    label: "Figure 7"
+    label: "Figure 13"
     src: figures/fig-12.jpeg
-    caption: "*Portrait of Charles Bell*."
+    caption: "*Portrait of Charles Bell, Encyclopedia Britannica*."
 
   - id: "fig-6"
-    label: "Figure 3"
+    label: "Figure 2"
     src: figures/fig-6.jpeg
-    caption: "*Plate III, 1801*."
+    caption: "*Plate III (1801)*."
 
   - id: "fig-13"
-    label: "Figure 4"
+    label: "Figure 5"
     src: figures/fig-13.png
-    caption: "*Insert caption*."
+    caption: "*Frontispiece, artist unknown, after Charles Bell (1823)*."
 
   - id: "fig-16"
     label: "Figure 5"
@@ -36,9 +36,9 @@ figure_list:
     caption: "*Insert caption*."
 
   - id: "fig-17"
-    label: "Figure 6"
+    label: "Figure 4"
     src: figures/fig-17.jpeg
-    caption: "*Insert caption*."
+    caption: "*Two examples of eye wounds by Charles Bell. Source: Wellcome Collection, CC BY-NC*."
 
   - id: "fig-14"
     label: "Figure 7"
@@ -46,9 +46,9 @@ figure_list:
     caption: "*Madman*."
 
   - id: "fig-7"
-    label: "Figure 5"
+    label: "Figure 3"
     src: figures/fig-7.jpeg
-    caption: "*Opisthotonus in a patient suffering from tetanus, 1809*."
+    caption: "*Opisthotonus in a patient suffering from tetanus (1809)*."
 
   - id: "fig-18"
     label: "Figure 6"
@@ -63,19 +63,29 @@ figure_list:
   - id: "fig-20"
     label: "Figure 7"
     src: figures/fig-20.jpeg
-    caption: "*Arm wound; inscribed XII Waterloo, 1815.*."
+    caption: "*Arm wound; inscribed XII Waterloo (1815)*."
 
   - id: "fig-23"
-    label: "Figure 10"
+    label: "Figure 11"
     src: figures/fig-23.jpeg
-    caption: "*London: John Murray, 1844. Page 180 - madness. Wellcome Collection*."
+    caption: "*Madness, 180. Wellcome Collection*."
 
   - id: "fig-22"
     label: "Figure 8"
     src: figures/fig-22.jpeg
-    caption: "*London: John Murray, 1844. P. 160 - demoniacs. Wellcome Collection*."
+    caption: "*Demoniacs, 160. Wellcome Collection*."
 
   - id: "fig-24"
     label: "Figure 10"
     src: figures/fig-24.jpeg
-    caption: "*London: John Murray, 1844. P. 157 - pain. Wellcome Collection*."
+    caption: "*Pain, 157. Wellcome Collection*."
+
+  - id: "fig-25"
+    label: "Figure 12"
+    src: figures/fig-25.jpeg
+    caption: "*Fear, 165. Wellcome Collection*."
+
+  - id: "fig-27"
+    label: "Figure 1"
+    src: figures/fig-27.jpeg
+    caption: "*Charles Bell (1774-1842)*."
